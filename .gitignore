@@ -1,0 +1,11 @@
+__pycache__/
+
+dataset/ogbn_arxiv
+dataset/ogbn_products
+dataset/amazon
+data/*
+output/*
+LMs/*
+.vscode
+.hypothesis/
+.DS_Store
